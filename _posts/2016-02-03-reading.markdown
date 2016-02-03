@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Reading"
+---
+
+I do not consider myself a reading person. I can only list two books I've read in the last couple of
+years. The first is the Passionate Programmer by Chad Fowler, and the other is What If from
+the man behind the much-quoted XKCD, Randall Munroe.
+
+The Passionate Programmer is a quite interesting reading. It resonates with my own experiences
+and has a quite peculiar view on the topic. I also saw Chad speaking at the 2014 Craft Conference,
+and his session was both witty and gave me a good food for thought.
+
+What If, the other book, was less inspiring but a humorous analysis of non-everyday
+problems by an engineer. I read that in a few days, it's a book that is hard to
+put down if you are interested in the topic.
+
+While I mostly neglect books, I just got an email from Pocket, a handy tool to read blog posts at a later
+time, that I am among the top 5% of their users. That's something, and according to their statistics, in the
+course of 2014 I read more that 800.000 words. They put it equal to 18 books, in just one year.
+I reckon their figure on the word count is realistic, as I read almost everything I put into Pocket
+(that's why I put a post there in the first place).
+
+As I follow a dozen or so blogs with an RSS reader, of which I actually read around 6-7 actively,
+I expect the numbers will increase in 2016. There are many interesting writers out there whose
+content worth the time; and I find an ever increasing number of blogs to follow which I never
+heard of before.
+
+Short blog posts make up for long books, and they bring on more diverse ideas. I enjoy the style and
+the topics of writers who I follow; also I can learn much about the craft.
+
+Chances are, I am indeed a reading person.
