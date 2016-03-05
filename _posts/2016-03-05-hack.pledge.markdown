@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Hack.pledge()"
+---
+
+As I watched the hack.summit() presentations, I saw another initiative there. It's called
+hack.pledge() and it's a mentoring program. Mentors pledge an hour of their time to help
+others in a particular area they are experienced in. It's not for profit, there is no money involved.
+
+I find it an interesting opportunity. Not only I could practice my communication skills, I could also
+master my craft. I am using some highly-demanded technologies daily, and I'm quite sure I could
+make a positive contribution to someone else's craft. As the saying goes, you understand something
+once you can teach it.
+
+I'm a bit reluctant to register because of the many uncertainties and a general nervousness when
+trying out new things, but I'm gaining momentum. See you there, if you need some front-end or cloud
+advice!
+
+A few weeks ago I read an interesting article about a weekend startup MVP. The main idea was
+a chat where people can go and ask technical questions about their programming issues and an
+expert join in to help them. The first few minutes are free, then there is a fixed fee every
+20 minutes.
+
+The article was about the beginnings of the service, where the idea came from and the different
+approaches the founders tried until they reached the current state. One of the interesting points
+was that they had many applications from experts, and some people were willing to offer their
+help for free.
+
+I think the driving force behind giving advice for free is that developers are eager to offer help
+to each other. StackOverflow, for example, is a site where people can ask questions and others can
+answer. It quickly became the #1 source of information when I face a challenging problem. Also
+I asked a few questions there in the past, and I was surprised how fast and accurate the answers
+were.
+
+Also there is a social side. Developers tend to master their craft alone or within the boundaries of
+a small team. It's a good feeling to help others outside your social circle.
+
+It's a bit novel field for me, but I'm toying with the idea of becoming more active in these
+sites to help others. I'm sure it will be beneficial.
